@@ -1,0 +1,167 @@
+/* #222831
+#393E46
+#00ADB5
+#EEEEEE */
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    color: #00ADB5;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+}
+
+h2{
+    color: #EEEEEE;
+    font-size: 2.5rem;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    color: #00ADB5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    color: #00ADB5;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight: bold;
+}
+
+p{
+    color: #EEEEEE;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+    border-color: #393E46;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5%;
+}
+
+.contact-paragraph{
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.top-container{
+    background-color: #393E46;
+    padding-top: 100px;
+}
+
+.middle-container{
+    background-color: #222831;
+}
+
+.bottom-container{
+    background-color: #393E46;
+    padding-top: 50px;
+}
+
+.coding-language-image{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+    width: 5%;
+}
+
+.code-image{
+    position: absolute;
+    left: 200px;
+    top: 300px;
+    width: 5%;
+}
+
+.programmer-3{
+    width: 23%;
+    padding-top: 30px;
+}
+
+.profile-picture{
+    width: 18%;
+    border:3px solid #00ADB5;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+}
+
+.programmer-1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.programmer-2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+.profile{
+    width: 50%;
+    margin: 0px auto 0px auto;
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+
+.skills{
+    padding-top: 50px;
+}
+
+.contact-me{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.copywrite-text{
+    margin: 0;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.footer-link{
+    margin: auto 50px auto 50px;
+}
+
+.copywrite-text{
+    font-size: 0.75rem;
+}
+
+.btn {
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 20px;
+    background: #00ADB5;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #EEEEEE;
+    text-decoration: none;
+    color: #393E46;
+}
+
+
